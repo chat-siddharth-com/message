@@ -18,3 +18,4 @@ messageForm.addEventListener('submit', (event) => {
   // Clear the message input
   messageInput.value = '';
 });
+
